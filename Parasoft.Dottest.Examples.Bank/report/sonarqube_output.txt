@@ -1,0 +1,190 @@
+INFO: Scanner configuration file: C:\SonarQube\sonar-scanner-4.7.0.2747-windows\bin\..\conf\sonar-scanner.properties
+INFO: Project root configuration file: C:\Users\bmcglau\gitrepos\sonarqube-integration-tests\projects\BankExample.NET\sonar-project.properties
+INFO: SonarScanner 4.7.0.2747
+INFO: Java 11.0.14.1 Eclipse Adoptium (64-bit)
+INFO: Windows 10 10.0 amd64
+INFO: User cache: C:\Users\bmcglau\.sonar\cache
+INFO: Scanner configuration file: C:\SonarQube\sonar-scanner-4.7.0.2747-windows\bin\..\conf\sonar-scanner.properties
+INFO: Project root configuration file: C:\Users\bmcglau\gitrepos\sonarqube-integration-tests\projects\BankExample.NET\sonar-project.properties
+INFO: Analyzing on SonarQube server 9.5.0.56709
+INFO: Default locale: "en_US", source code encoding: "windows-1252" (analysis is platform dependent)
+INFO: Load global settings
+INFO: Load global settings (done) | time=58ms
+INFO: Server id: 147B411E-AYJG3siNGFX2pzZqlelj
+INFO: User cache: C:\Users\bmcglau\.sonar\cache
+INFO: Load/download plugins
+INFO: Load plugins index
+INFO: Load plugins index (done) | time=36ms
+INFO: Load/download plugins (done) | time=9431ms
+INFO: Loaded core extensions: developer-scanner
+INFO: Process project properties
+INFO: Process project properties (done) | time=7ms
+INFO: Execute project builders
+INFO: Execute project builders (done) | time=1ms
+INFO: Project key: sonarqube_integration_test_BankExample.NET
+INFO: Base dir: C:\Users\bmcglau\gitrepos\sonarqube-integration-tests\projects\BankExample.NET
+INFO: Working dir: C:\Users\bmcglau\gitrepos\sonarqube-integration-tests\projects\BankExample.NET\.scannerwork
+INFO: Load project settings for component key: 'sonarqube_integration_test_BankExample.NET'
+INFO: Load project settings for component key: 'sonarqube_integration_test_BankExample.NET' (done) | time=24ms
+INFO: Load project branches
+INFO: Load project branches (done) | time=17ms
+INFO: Load project pull requests
+INFO: Load project pull requests (done) | time=13ms
+INFO: Load branch configuration
+INFO: Load branch configuration (done) | time=1ms
+INFO: Load quality profiles
+INFO: Load quality profiles (done) | time=262ms
+INFO: Load active rules
+INFO: Load active rules (done) | time=11415ms
+INFO: Load analysis cache
+INFO: Load analysis cache (404) | time=11ms
+INFO: Load project repositories
+INFO: Load project repositories (done) | time=17ms
+INFO: Indexing files...
+INFO: Project configuration:
+INFO: 55 files indexed
+INFO: 0 files ignored because of scm ignore settings
+INFO: Quality profile for cs: Parasoft dotTest
+INFO: Quality profile for json: Sonar way
+INFO: Quality profile for web: Sonar way
+INFO: Quality profile for xml: Parasoft Jtest
+INFO: ------------- Run sensors on module sonarqube_integration_test_BankExample.NET
+INFO: Load metrics repository
+INFO: Load metrics repository (done) | time=19ms
+INFO: Sensor IaC CloudFormation Sensor [iac]
+INFO: 0 source files to be analyzed
+INFO: 0/0 source files have been analyzed
+INFO: Sensor IaC CloudFormation Sensor [iac] (done) | time=19ms
+INFO: Sensor C# Project Type Information [csharp]
+INFO: Sensor C# Project Type Information [csharp] (done) | time=1ms
+INFO: Sensor C# Analysis Log [csharp]
+INFO: Sensor C# Analysis Log [csharp] (done) | time=11ms
+INFO: Sensor C# Properties [csharp]
+INFO: Sensor C# Properties [csharp] (done) | time=1ms
+INFO: Sensor HTML [web]
+INFO: Sensor HTML [web] (done) | time=2369ms
+INFO: Sensor XML Sensor [xml]
+INFO: 2 source files to be analyzed
+INFO: 2/2 source files have been analyzed
+INFO: Sensor XML Sensor [xml] (done) | time=369ms
+INFO: Sensor Text Sensor [text]
+INFO: 28 source files to be analyzed
+INFO: 28/28 source files have been analyzed
+INFO: Sensor Text Sensor [text] (done) | time=3ms
+INFO: Sensor VB.NET Project Type Information [vbnet]
+INFO: Sensor VB.NET Project Type Information [vbnet] (done) | time=0ms
+INFO: Sensor VB.NET Analysis Log [vbnet]
+INFO: Sensor VB.NET Analysis Log [vbnet] (done) | time=15ms
+INFO: Sensor VB.NET Properties [vbnet]
+INFO: Sensor VB.NET Properties [vbnet] (done) | time=0ms
+INFO: Sensor JaCoCo XML Report Importer [jacoco]
+INFO: 'sonar.coverage.jacoco.xmlReportPaths' is not defined. Using default locations: target/site/jacoco/jacoco.xml,target/site/jacoco-it/jacoco.xml,build/reports/jacoco/test/jacocoTestReport.xml
+INFO: No report imported, no coverage information will be imported by JaCoCo XML Report Importer
+INFO: Sensor JaCoCo XML Report Importer [jacoco] (done) | time=2ms
+INFO: Sensor CSS Rules [javascript]
+INFO: Deploying custom rules bundle jar:file:/C:/Users/bmcglau/.sonar/cache/06b160cbad8e9f8df7328b1a2c5a0afe/sonar-securityjsfrontend-plugin.jar!/js-vulnerabilities-rules-1.0.0.tgz to C:\Users\bmcglau\gitrepos\sonarqube-integration-tests\projects\BankExample.NET\.scannerwork\.sonartmp\eslint-bridge-bundle\package\custom-rules12559160149739852302
+INFO: 1 source file to be analyzed
+INFO: 1/1 source file has been analyzed
+INFO: Sensor CSS Rules [javascript] (done) | time=6638ms
+INFO: Sensor ThymeLeaf template sensor [securityjavafrontend]
+INFO: javasecurity:S5131 is not activated in quality profile: skipping execution of thymeleaf sensor.
+INFO: Sensor ThymeLeaf template sensor [securityjavafrontend] (done) | time=1ms
+INFO: Sensor Serverless configuration file sensor [security]
+INFO: 0 Serverless function entries were found in the project
+INFO: 0 Serverless function handlers were kept as entrypoints
+INFO: Sensor Serverless configuration file sensor [security] (done) | time=1ms
+INFO: Sensor AWS SAM template file sensor [security]
+INFO: Sensor AWS SAM template file sensor [security] (done) | time=1ms
+INFO: Sensor javabugs [dbd]
+INFO: Reading IR files from: C:\Users\bmcglau\gitrepos\sonarqube-integration-tests\projects\BankExample.NET\.scannerwork\ir\java
+INFO: No IR files have been included for analysis.
+INFO: Sensor javabugs [dbd] (done) | time=0ms
+INFO: Sensor JavaSecuritySensor [security]
+INFO: No taint analysis rules have been enabled, will not execute taint analysis.
+INFO: Sensor JavaSecuritySensor [security] (done) | time=1ms
+INFO: Sensor CSharpSecuritySensor [security]
+INFO: No taint analysis rules have been enabled, will not execute taint analysis.
+INFO: Sensor CSharpSecuritySensor [security] (done) | time=0ms
+INFO: Sensor PhpSecuritySensor [security]
+INFO: Reading type hierarchy from: C:\Users\bmcglau\gitrepos\sonarqube-integration-tests\projects\BankExample.NET\.scannerwork\ucfg2\php
+INFO: Read 0 type definitions
+INFO: Reading UCFGs from: C:\Users\bmcglau\gitrepos\sonarqube-integration-tests\projects\BankExample.NET\.scannerwork\ucfg2\php
+INFO: No UCFGs have been included for analysis.
+INFO: Sensor PhpSecuritySensor [security] (done) | time=1ms
+INFO: Sensor PythonSecuritySensor [security]
+INFO: Reading type hierarchy from: C:\Users\bmcglau\gitrepos\sonarqube-integration-tests\projects\BankExample.NET\.scannerwork\ucfg2\python
+INFO: Read 0 type definitions
+INFO: Reading UCFGs from: C:\Users\bmcglau\gitrepos\sonarqube-integration-tests\projects\BankExample.NET\.scannerwork\ucfg2\python
+INFO: No UCFGs have been included for analysis.
+INFO: Sensor PythonSecuritySensor [security] (done) | time=0ms
+INFO: Sensor JsSecuritySensor [security]
+INFO: Reading type hierarchy from: C:\Users\bmcglau\gitrepos\sonarqube-integration-tests\projects\BankExample.NET\.scannerwork\ucfg2\js
+INFO: Read 0 type definitions
+INFO: Reading UCFGs from: C:\Users\bmcglau\gitrepos\sonarqube-integration-tests\projects\BankExample.NET\.scannerwork\ucfg2\js
+INFO: No UCFGs have been included for analysis.
+INFO: Sensor JsSecuritySensor [security] (done) | time=0ms
+INFO: ------------- Run sensors on project
+INFO: Sensor C# [csharp]
+WARN: Your project contains C# files which cannot be analyzed with the scanner you are using. To analyze C# or VB.NET, you must use the SonarScanner for .NET 5.x or higher, see https://redirect.sonarsource.com/doc/install-configure-scanner-msbuild.html
+INFO: Sensor C# [csharp] (done) | time=1ms
+INFO: Sensor Analysis Warnings import [csharp]
+INFO: Sensor Analysis Warnings import [csharp] (done) | time=0ms
+INFO: Sensor Findings for Parasoft Jtest [parasoft]
+WARN: Can not get IPreferences for:parallel.preferences.id
+INFO: Service initialization
+INFO: Sensor Findings for Parasoft Jtest [parasoft] (done) | time=120ms
+INFO: Sensor Findings for Parasoft dotTest [parasoft]
+INFO: Service initialization
+INFO: Parsing XML report: C:\Users\bmcglau\gitrepos\sonarqube-integration-tests\projects\BankExample.NET\Parasoft.Dottest.Examples.Bank\report\report.xml
+INFO: Diagnostics mode is OFF.
+INFO: 0 findings imported
+INFO: No findings for: .NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+INFO: No findings for: OutgoingTransfer.cs
+INFO: No findings for: CurrencyInfo.cs
+INFO: No findings for: CurrencyWithNoCents.cs
+INFO: No findings for: CurrencyWithCents.cs
+INFO: No findings for: BankAccount.cs
+INFO: No findings for: ExternalTransfer.cs
+INFO: No findings for: BankUser.cs
+INFO: No findings for: TransactionBase.cs
+INFO: No findings for: .NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+INFO: No findings for: Bank.cs
+INFO: No findings for: Parasoft.Dottest.Examples.Bank.AssemblyInfo.cs
+INFO: No findings for: Currency.cs
+INFO: No findings for: CurrencyExchangeConverter.cs
+INFO: No findings for: IncommingTransfer.cs
+INFO: No findings for: CurrencyProvider.cs
+INFO: No findings for: ExampleBank.cs
+INFO: No findings for: IInterBankTransferSystem.cs
+INFO: No findings for: ReportGenerator.cs
+INFO: No findings for: TransferTransaction.cs
+INFO: No findings for: AccountNumber.cs
+INFO: No findings for: Parasoft.Dottest.Examples.Bank.AssemblyInfo.cs
+INFO: Sensor Findings for Parasoft dotTest [parasoft] (done) | time=68ms
+INFO: Sensor Zero Coverage Sensor
+INFO: Sensor Zero Coverage Sensor (done) | time=1ms
+INFO: SCM Publisher SCM provider for this project is: git
+INFO: SCM Publisher 3 source files to be analyzed
+INFO: SCM Publisher 0/3 source files have been analyzed (done) | time=285ms
+WARN: Missing blame information for the following files:
+WARN:   * Parasoft.Dottest.Examples.Bank/report/report (1).xml
+WARN:   * Parasoft.Dottest.Examples.Bank/report/report.xml
+WARN:   * Parasoft.Dottest.Examples.Bank/report/report.html
+WARN: This may lead to missing/broken features in SonarQube
+INFO: CPD Executor Calculating CPD for 1 file
+INFO: CPD Executor CPD calculation finished (done) | time=41ms
+INFO: Load New Code definition
+INFO: Load New Code definition (done) | time=16ms
+INFO: Analysis report generated in 100ms, dir size=4.1 MB
+INFO: Analysis report compressed in 97ms, zip size=626.0 kB
+INFO: Analysis report uploaded in 44ms
+INFO: ANALYSIS SUCCESSFUL, you can find the results at: http://citools.parasoft.com:9000/dashboard?id=sonarqube_integration_test_BankExample.NET
+INFO: Note that you will be able to access the updated dashboard once the server has processed the submitted analysis report
+INFO: More about the report processing at http://citools.parasoft.com:9000/api/ce/task?id=AYaAkaqcmvGa3lIdCfxA
+INFO: Analysis total time: 31.053 s
+INFO: ------------------------------------------------------------------------
+INFO: EXECUTION SUCCESS
+INFO: ------------------------------------------------------------------------
+INFO: Total time: 44.254s
+INFO: Final Memory: 40M/160M
+INFO: ------------------------------------------------------------------------

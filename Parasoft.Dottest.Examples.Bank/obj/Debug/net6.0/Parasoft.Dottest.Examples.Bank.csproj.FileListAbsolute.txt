@@ -1,0 +1,36 @@
+C:\Users\mthomas\Desktop\dottest\examples\NET\NET 6.0\SourceCode\BankExample.NET\Parasoft.Dottest.Examples.Bank\bin\Debug\net6.0\Parasoft.Dottest.Examples.Bank.deps.json
+C:\Users\mthomas\Desktop\dottest\examples\NET\NET 6.0\SourceCode\BankExample.NET\Parasoft.Dottest.Examples.Bank\bin\Debug\net6.0\Parasoft.Dottest.Examples.Bank.dll
+C:\Users\mthomas\Desktop\dottest\examples\NET\NET 6.0\SourceCode\BankExample.NET\Parasoft.Dottest.Examples.Bank\bin\Debug\net6.0\Parasoft.Dottest.Examples.Bank.pdb
+C:\Users\mthomas\Desktop\dottest\examples\NET\NET 6.0\SourceCode\BankExample.NET\Parasoft.Dottest.Examples.Bank\obj\Debug\net6.0\Parasoft.Dottest.Examples.Bank.csproj.AssemblyReference.cache
+C:\Users\mthomas\Desktop\dottest\examples\NET\NET 6.0\SourceCode\BankExample.NET\Parasoft.Dottest.Examples.Bank\obj\Debug\net6.0\Parasoft.Dottest.Examples.Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mthomas\Desktop\dottest\examples\NET\NET 6.0\SourceCode\BankExample.NET\Parasoft.Dottest.Examples.Bank\obj\Debug\net6.0\Parasoft.Dottest.Examples.Bank.AssemblyInfoInputs.cache
+C:\Users\mthomas\Desktop\dottest\examples\NET\NET 6.0\SourceCode\BankExample.NET\Parasoft.Dottest.Examples.Bank\obj\Debug\net6.0\Parasoft.Dottest.Examples.Bank.AssemblyInfo.cs
+C:\Users\mthomas\Desktop\dottest\examples\NET\NET 6.0\SourceCode\BankExample.NET\Parasoft.Dottest.Examples.Bank\obj\Debug\net6.0\Parasoft.Dottest.Examples.Bank.csproj.CoreCompileInputs.cache
+C:\Users\mthomas\Desktop\dottest\examples\NET\NET 6.0\SourceCode\BankExample.NET\Parasoft.Dottest.Examples.Bank\obj\Debug\net6.0\Parasoft.Dottest.Examples.Bank.dll
+C:\Users\mthomas\Desktop\dottest\examples\NET\NET 6.0\SourceCode\BankExample.NET\Parasoft.Dottest.Examples.Bank\obj\Debug\net6.0\refint\Parasoft.Dottest.Examples.Bank.dll
+C:\Users\mthomas\Desktop\dottest\examples\NET\NET 6.0\SourceCode\BankExample.NET\Parasoft.Dottest.Examples.Bank\obj\Debug\net6.0\Parasoft.Dottest.Examples.Bank.pdb
+C:\Users\mthomas\Desktop\dottest\examples\NET\NET 6.0\SourceCode\BankExample.NET\Parasoft.Dottest.Examples.Bank\obj\Debug\net6.0\ref\Parasoft.Dottest.Examples.Bank.dll
+C:\Users\mthomas\Desktop\SonarQube\dottest\examples\NET\NET 6.0\SourceCode\BankExample.NET\Parasoft.Dottest.Examples.Bank\bin\Debug\net6.0\Parasoft.Dottest.Examples.Bank.deps.json
+C:\Users\mthomas\Desktop\SonarQube\dottest\examples\NET\NET 6.0\SourceCode\BankExample.NET\Parasoft.Dottest.Examples.Bank\bin\Debug\net6.0\Parasoft.Dottest.Examples.Bank.dll
+C:\Users\mthomas\Desktop\SonarQube\dottest\examples\NET\NET 6.0\SourceCode\BankExample.NET\Parasoft.Dottest.Examples.Bank\bin\Debug\net6.0\Parasoft.Dottest.Examples.Bank.pdb
+C:\Users\mthomas\Desktop\SonarQube\dottest\examples\NET\NET 6.0\SourceCode\BankExample.NET\Parasoft.Dottest.Examples.Bank\obj\Debug\net6.0\Parasoft.Dottest.Examples.Bank.csproj.AssemblyReference.cache
+C:\Users\mthomas\Desktop\SonarQube\dottest\examples\NET\NET 6.0\SourceCode\BankExample.NET\Parasoft.Dottest.Examples.Bank\obj\Debug\net6.0\Parasoft.Dottest.Examples.Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mthomas\Desktop\SonarQube\dottest\examples\NET\NET 6.0\SourceCode\BankExample.NET\Parasoft.Dottest.Examples.Bank\obj\Debug\net6.0\Parasoft.Dottest.Examples.Bank.AssemblyInfoInputs.cache
+C:\Users\mthomas\Desktop\SonarQube\dottest\examples\NET\NET 6.0\SourceCode\BankExample.NET\Parasoft.Dottest.Examples.Bank\obj\Debug\net6.0\Parasoft.Dottest.Examples.Bank.AssemblyInfo.cs
+C:\Users\mthomas\Desktop\SonarQube\dottest\examples\NET\NET 6.0\SourceCode\BankExample.NET\Parasoft.Dottest.Examples.Bank\obj\Debug\net6.0\Parasoft.Dottest.Examples.Bank.csproj.CoreCompileInputs.cache
+C:\Users\mthomas\Desktop\SonarQube\dottest\examples\NET\NET 6.0\SourceCode\BankExample.NET\Parasoft.Dottest.Examples.Bank\obj\Debug\net6.0\Parasoft.Dottest.Examples.Bank.dll
+C:\Users\mthomas\Desktop\SonarQube\dottest\examples\NET\NET 6.0\SourceCode\BankExample.NET\Parasoft.Dottest.Examples.Bank\obj\Debug\net6.0\refint\Parasoft.Dottest.Examples.Bank.dll
+C:\Users\mthomas\Desktop\SonarQube\dottest\examples\NET\NET 6.0\SourceCode\BankExample.NET\Parasoft.Dottest.Examples.Bank\obj\Debug\net6.0\Parasoft.Dottest.Examples.Bank.pdb
+C:\Users\mthomas\Desktop\SonarQube\dottest\examples\NET\NET 6.0\SourceCode\BankExample.NET\Parasoft.Dottest.Examples.Bank\obj\Debug\net6.0\ref\Parasoft.Dottest.Examples.Bank.dll
+C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\BankExample.NET\Parasoft.Dottest.Examples.Bank\bin\Debug\net6.0\Parasoft.Dottest.Examples.Bank.deps.json
+C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\BankExample.NET\Parasoft.Dottest.Examples.Bank\bin\Debug\net6.0\Parasoft.Dottest.Examples.Bank.dll
+C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\BankExample.NET\Parasoft.Dottest.Examples.Bank\bin\Debug\net6.0\Parasoft.Dottest.Examples.Bank.pdb
+C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\BankExample.NET\Parasoft.Dottest.Examples.Bank\obj\Debug\net6.0\Parasoft.Dottest.Examples.Bank.csproj.AssemblyReference.cache
+C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\BankExample.NET\Parasoft.Dottest.Examples.Bank\obj\Debug\net6.0\Parasoft.Dottest.Examples.Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\BankExample.NET\Parasoft.Dottest.Examples.Bank\obj\Debug\net6.0\Parasoft.Dottest.Examples.Bank.AssemblyInfoInputs.cache
+C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\BankExample.NET\Parasoft.Dottest.Examples.Bank\obj\Debug\net6.0\Parasoft.Dottest.Examples.Bank.AssemblyInfo.cs
+C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\BankExample.NET\Parasoft.Dottest.Examples.Bank\obj\Debug\net6.0\Parasoft.Dottest.Examples.Bank.csproj.CoreCompileInputs.cache
+C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\BankExample.NET\Parasoft.Dottest.Examples.Bank\obj\Debug\net6.0\Parasoft.Dottest.Examples.Bank.dll
+C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\BankExample.NET\Parasoft.Dottest.Examples.Bank\obj\Debug\net6.0\refint\Parasoft.Dottest.Examples.Bank.dll
+C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\BankExample.NET\Parasoft.Dottest.Examples.Bank\obj\Debug\net6.0\Parasoft.Dottest.Examples.Bank.pdb
+C:\Users\mthomas\Desktop\sonar_integration_test_example_projects\example_projects\BankExample.NET\Parasoft.Dottest.Examples.Bank\obj\Debug\net6.0\ref\Parasoft.Dottest.Examples.Bank.dll

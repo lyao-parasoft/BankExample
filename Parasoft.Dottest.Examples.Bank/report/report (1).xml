@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ResultsSession buildId="2023-02-26" climode="true" execEnv="win32_x86_64" hasViols="false" id="1676593476197" lang="en_US" machine="rhea" project="" tag="${scontrol_branch}-win32_x86_64" time="2023-02-26T16:55:56-08:00" toolDispName="dotTEST" toolId="dottest" toolName="DTP Engine for .NET" toolVer="2022.1.1" user="yshi">
+   <TestConfig machine="rhea" name="dottest_settings" pseudoUrl="C:\Users\yshi\git\sonarqube-integration-tests\conf\dottest_settings.properties" user="yshi" />
+   <Authors />
+   <Analyzers>
+      <Analyzer id="com.parasoft.dottest" name="Parasoft dotTEST" ver="10.6.0.9" />
+      <Analyzer id="com.parasoft.dottest.dupcode" name="Code Duplication Detector" ver="10.6.0.20220510" />
+   </Analyzers>
+   <VersionInfos>
+      <StorageInfo ownerId="" resultId="ISetupResult" ver="1" ver10x="1" />
+      <StorageInfo ownerId="com.parasoft.xtest.checkers.api.standards" resultId="IMetricsViolation" ver="2" ver10x="1" />
+      <StorageInfo ownerId="" resultId="IExecutionViolation" ver="1" ver10x="1" />
+      <StorageInfo ownerId="com.parasoft.xtest.checkers.api.standards" resultId="IDupCodeViolation" ver="2" ver10x="1" />
+      <StorageInfo ownerId="com.parasoft.xtest.checkers.api.standards" resultId="IFlowAnalysisViolation" ver="2" ver10x="1" />
+      <StorageInfo ownerId="" resultId="IFunctionalViolation" ver="1" ver10x="1" />
+      <StorageInfo ownerId="" resultId="IChangeImpactViolation" ver="1" ver10x="1" />
+      <StorageInfo ownerId="com.parasoft.xtest.checkers.api.standards" resultId="ICodingStandardsViolation" ver="2" ver10x="1" />
+      <StorageInfo ownerId="" resultId="IUnitTestViolation" ver="1" ver10x="1" />
+   </VersionInfos>
+   <Goals tsks="0">
+      
+   </Goals>
+   <Scope>
+      <Repositories />
+      <Locations />
+   </Scope>
+   
+  <SetupProblems />
+
+   <CodingStandards ownerId="com.parasoft.xtest.checkers.api.standards" time="0:00:00">
+      
+      
+      <Rules>
+         <CategoriesList>
+            <Category authTot="" authUrg="" desc="Code Duplication Detection" name="CDD" rules="4" total="0" />
+         </CategoriesList>
+         <RulesList>
+            <Rule analyzer="com.parasoft.xtest.dupcode.parser" authTot="" authUrg="" cat="CDD" desc="Avoid method duplication" id="CDD.DUPM" sev="2" total="0" />
+            <Rule analyzer="com.parasoft.xtest.dupcode.parser" authTot="" authUrg="" cat="CDD" desc="Avoid types duplication" id="CDD.DUPT" sev="2" total="0" />
+            <Rule analyzer="com.parasoft.xtest.dupcode.parser" authTot="" authUrg="" cat="CDD" desc="Avoid code duplication" id="CDD.DUPC" sev="3" total="0" />
+            <Rule analyzer="com.parasoft.xtest.dupcode.parser" authTot="" authUrg="" cat="CDD" desc="Avoid string literal duplication" id="CDD.DUPS" sev="3" total="0" />
+         </RulesList>
+         <SeverityList />
+      </Rules>
+      
+  <Supps />
+
+      
+  <StdViols />
+
+      <TestedFilesDetails>
+         <Total name="Total (Suppressed)" supp="0" total="0" />
+      </TestedFilesDetails>
+   </CodingStandards>
+   <Statistics>
+      
+   </Statistics>
+</ResultsSession>

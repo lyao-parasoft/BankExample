@@ -1,0 +1,6 @@
+projectKey=BankExample.NET
+serverUrl=http://citools.parasoft.com:9000
+serverVersion=9.5.0.56709
+dashboardUrl=http://citools.parasoft.com:9000/dashboard?id=BankExample.NET
+ceTaskId=AYLrbvfbnI0ZaCZ9sZaO
+ceTaskUrl=http://citools.parasoft.com:9000/api/ce/task?id=AYLrbvfbnI0ZaCZ9sZaO
