@@ -11,7 +11,7 @@ pipeline {
 
     post {
         always {
-            recordParasoftCoverage pattern: '**/coverage.xml'
+            recordParasoftCoverage pattern: '**/coverage.xml', sourceCodeEncoding: 'CESU-8'
         }
     }
 
