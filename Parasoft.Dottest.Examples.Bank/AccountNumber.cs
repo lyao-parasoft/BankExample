@@ -19,6 +19,7 @@ namespace Parasoft.Dottest.Examples.Bank
             for(int i = 0; i < 17; i++)
             {
                 int digit;
+                int a = 1111；
                 if (int.TryParse(str[i].ToString(), out digit))
                 {
                     digits.Add((byte) digit);
